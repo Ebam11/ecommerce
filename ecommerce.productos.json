@@ -1,0 +1,28 @@
+[{
+  "_id": 101,
+  "nombre": "Laptop Ultraligera",
+  "categoria": "Electrónica",
+  "precio": 950,
+  "stock": 15
+},
+{
+  "_id": 102,
+  "nombre": "Taza de Café Ecológica",
+  "categoria": "Hogar",
+  "precio": 15.5,
+  "stock": 50
+},
+{
+  "_id": 103,
+  "nombre": "Audífonos Inalámbricos Pro",
+  "categoria": "Electrónica",
+  "precio": 75.99,
+  "stock": 30
+},
+{
+  "_id": 104,
+  "nombre": "Monitor Curvo 4K",
+  "categoria": "Electrónica",
+  "precio": 1250,
+  "stock": 10
+}]

@@ -1,0 +1,56 @@
+[{
+  "_id": 5001,
+  "id_usuario": 1,
+  "fecha": "2025-10-01T10:30:00Z",
+  "total": 950,
+  "items": [
+    {
+      "id_producto": 101,
+      "cantidad": 1,
+      "precio_unitario": 950
+    }
+  ],
+  "estado": "Entregado"
+},
+{
+  "_id": 5002,
+  "id_usuario": 2,
+  "fecha": "2025-10-02T15:45:00Z",
+  "total": 31,
+  "items": [
+    {
+      "id_producto": 102,
+      "cantidad": 2,
+      "precio_unitario": 15.5
+    }
+  ],
+  "estado": "Pendiente"
+},
+{
+  "_id": 5003,
+  "id_usuario": 4,
+  "fecha": "2025-10-03T18:00:00Z",
+  "total": 75.99,
+  "items": [
+    {
+      "id_producto": 103,
+      "cantidad": 1,
+      "precio_unitario": 75.99
+    }
+  ],
+  "estado": "Enviado"
+},
+{
+  "_id": 5004,
+  "id_usuario": 3,
+  "fecha": "2025-10-04T09:00:00Z",
+  "total": 1250,
+  "items": [
+    {
+      "id_producto": 104,
+      "cantidad": 1,
+      "precio_unitario": 1250
+    }
+  ],
+  "estado": "Procesando"
+}]

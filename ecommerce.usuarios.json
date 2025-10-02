@@ -1,0 +1,28 @@
+[{
+  "_id": 1,
+  "nombre": "Elena Vargas",
+  "email": "elena.vargas@mail.com",
+  "pais": "Colombia",
+  "ciudad": "Bogotá"
+},
+{
+  "_id": 2,
+  "nombre": "Ricardo Castro",
+  "email": "ricardo.castro@mail.com",
+  "pais": "México",
+  "ciudad": "Ciudad de México"
+},
+{
+  "_id": 3,
+  "nombre": "Sofia Núñez",
+  "email": "sofia.nunez@mail.com",
+  "pais": "España",
+  "ciudad": "Madrid"
+},
+{
+  "_id": 4,
+  "nombre": "Camilo Torres",
+  "email": "camilo.torres@mail.com",
+  "pais": "Colombia",
+  "ciudad": "Medellín"
+}]
